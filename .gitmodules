@@ -1,0 +1,3 @@
+[submodule "src/USD"]
+	path = src/USD
+	url = https://github.com/PixarAnimationStudios/USD.git
